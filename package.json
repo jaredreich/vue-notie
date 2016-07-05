@@ -1,0 +1,19 @@
+{
+  "name": "vue-notie",
+  "version": "1.0.0",
+  "description": "A Vue.js plugin wrapper notie",
+  "author": "Jared Reich <jaredreich@gmail.com>",
+  "private": false,
+  "main": "vue-notie.js",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaredreich/vue-notie.git"
+  },
+  "dependencies": {
+    "notie": "^3.2.0",
+    "vue": "^1.0.21"
+  },
+  "devDependencies": {}
+}
