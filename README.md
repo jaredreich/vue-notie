@@ -1,6 +1,6 @@
 # vue-notie
 
-A Vue.js wrapper for [notie](https://github.com/jaredreich/notie)
+A Vue.js plugin for [notie](https://github.com/jaredreich/notie).
 
 ## Installation
 
@@ -43,4 +43,4 @@ this.$notie.alert(1, 'It worked!', 3);
 ```
 
 ## Credit
-Thanks to [alfhen](https://github.com/alfhen) for originally creating this wrapper
+Thanks to [alfhen](https://github.com/alfhen) for originally creating this plugin.
