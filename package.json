@@ -1,7 +1,7 @@
 {
   "name": "vue-notie",
   "version": "1.0.0",
-  "description": "A Vue.js plugin wrapper notie",
+  "description": "A Vue.js wrapper for notie",
   "author": "Jared Reich <jaredreich@gmail.com>",
   "private": false,
   "main": "vue-notie.js",
